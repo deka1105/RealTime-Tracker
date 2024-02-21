@@ -38,4 +38,4 @@ while True:
     st.write(f"Latest Price ({latest_time}): {latest_price}")
 
     # Sleep for 1 minute before fetching new data
-    time.sleep(20)
+    time.sleep(10)
